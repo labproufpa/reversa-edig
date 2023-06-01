@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="doc/img/ufpa_logo" width="100" height="119" src="./image.png">
+<img alt="img/ufpa_logo" width="100" height="119" src="./image.png">
 </p>
 
 **<h4 align="center"> Universidade Federal do Pará </h4>**
