@@ -66,7 +66,9 @@ Para compreender a atividade, leia os tópicos a seguir:
 
 3. Analise o sinal de saída;
     - Modifique a combinação dsa chaves 1,2,3 e 4, do Dip Switch e observe o estado o LED.
+
 **Dica:** gire as chaves para o sentido "ON" para fechá-las.
+
 **Dica:** o LED aceso indica o nível lógico alto, 1. o LED desligado indica o nível lógico baixo, 0.
 
 4. Construa a tabela verdade do circuito realizando todas as combinações das entradas do Dip Switch.
@@ -89,6 +91,7 @@ Para compreender a atividade, leia os tópicos a seguir:
 2. Vá novamente em Projeto > Analisar Circuito
     - Na aba "Expressão", temos a expressão lógica do circuito gerado;
     - Registre a expressão lógica obtida.
+
     **Observação:** note que, agora temos uma base para rechonecermos o circuito contido na placa, mas não necessariamente este será o circuito final.
 
 ***
@@ -103,12 +106,17 @@ Para compreender a atividade, leia os tópicos a seguir:
 
 3. Reconheça a pinagem dos componentes da placa;
     - Procure a documentação dos CIs para descobrir suas especificações.
+
     **Dica:** o modelo do CI é escrito na parte de cima dele.
+
     **Dica:** recorra ao **datasheet** do circuito integrado para obter essas informações.
+
     **Dica:** os Cis têm, em uma das bordas laterais, uma cavidade, que server para orientação.
 
 4. Analise as trilhas;
+
     **Dica:** cada sinal de entrada sai, separadamente, de cada pino do Dip Switch. Os sinais percorrem os CIs e combinam-se em operações lógicas de AND, OR, NOT, NAND e NOR.
+    
     **Dica:** durante o porcesso, você estará obtendo, também, a expressão lógica do circuito. Regisre tanto o circuito quanto a expressão lógica obtida pela análise da placa.
 
 5. Construa o circuito no Logisim;
