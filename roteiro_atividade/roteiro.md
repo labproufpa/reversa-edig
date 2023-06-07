@@ -108,7 +108,7 @@
     **Dica:** recorra ao **datasheet** do circuito integrado para obter essas informações. Dentro do repositório, você encontrará uma pasta com os datasheets dos CIs da atividade.
 
 <p align="center">
-<img alt="pin" width="672" height="339" src="../img/pin.png">
+<img alt="pin" width="1008" height="509" src="../img/pin.png">
 </p>
 
 **Dica:** os Cis têm, em uma das bordas laterais, uma cavidade, que server para orientação. Se tratando da família 74XXXX, a numeração começa com a cavidade para o lado esquerdo, e o pino do canto inferior esquerdo é o pino 1, a contagem é feita no sentido anti-horário, como segue a imagem:
