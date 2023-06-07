@@ -62,7 +62,6 @@
     </br>
     <img alt="led" width="300" height="300" src="../img/led.png">
 </p>
-</br>
 
 - **Entrada USB:** a alimentação principal do sistema é dada por uma entrada USB, conectada ao Dip Switch e aos CIs. A entrada USB tipo A e deve ser conectada a um computador, ou a outra entrada USB tipo A de algum aparelho que forneça a tensão necessária para o funcionamento **correto** do circuito.
 
