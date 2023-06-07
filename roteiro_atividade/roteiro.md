@@ -60,7 +60,7 @@
 
 <p align="center">
     </br>
-    <img alt="led" width="600" height="336" src="../img/led.jpg">
+    <img alt="led" width="300" height="300" src="../img/led.png">
 </p>
 </br>
 
