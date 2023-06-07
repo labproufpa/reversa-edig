@@ -24,36 +24,64 @@
 **<h4 align='center'>Considerações gerais</h4>**
 
 - Nesta atividade, analisaremos placas de circuito impresso contendo circuitos lógicos vistos comumente em aulas de Eletrônica Digital.
-- Cada placa é composta por:
-    - 3 (três) CIs (circuito integrado), de modelos diferentes, cada um contendo um tipo específico de porta lógica dentre as seguintes:
-        - AND
-        - OR
-        - NOT
-        - NAND
-        - NOR
+**Cada placa é composta por:**
+- 3 (três) CIs (circuito integrado), de modelos diferentes, cada um contendo um tipo específico de porta lógica dentre as seguintes: 
+    - AND
+    - OR
+    - NOT
+    - NAND
+    - NOR
     - 1 (um) Dip Switch de 4 vias;
     - 1 (um) LED;
     - 1 (um) Terminal Borne de 2 vias;
     - 1 (um) entrada USB Tipo A fêmea.
+    
 - Cada placa consiste em um circuito lógico diferente.
 - Cada circuito tem 4 entradas e 1 saída.
 
 **<h4 align='center'>Componentes e suas funções</h4>**
 
 - **Circuitos Integrados:** contêm as portas lógicas do circuito.
+<p align="center">
+    </br>
+    <img alt="ci" width="345" height="300" src="../img/ci.png">
+    </p>
+</br>
+
 - **Dip Switch:** contêm 4 chaves: 1,2,3 e 4. Cada chave possui duas posições: "ligado" e "desligado". Quando "ligado", a conexão elétrica é estabelecida entre os pinos. As chaves 1,2, 3 e 4 representaram as entradas do circuito lógico.
+
+<p align="center">
+    </br>
+    <img alt="dip" width="345" height="300" src="../img/dip.png">
+</p>
+</br>
+
 - **LED:** representa a saída do circuito. Quando ligado, indica saída de nível lógico alto "1". Do contrário, indica saída de nível lógico baixo "0".
 
-- **Alimentação**
-    - **Entrada USB:** a alimentação principal do sistema é dada por uma entrada USB, conectada ao Dip Switch e aos CIs. A entrada USB tipo A e deve ser conectada a um computador, ou a outra entrada USB tipo A de algum aparelho que forneça a tensão necessária para o funcionamento **correto** do circuito.
+<p align="center">
+    </br>
+    <img alt="led" width="600" height="336" src="../img/led.jpg">
+</p>
+</br>
+
+- **Entrada USB:** a alimentação principal do sistema é dada por uma entrada USB, conectada ao Dip Switch e aos CIs. A entrada USB tipo A e deve ser conectada a um computador, ou a outra entrada USB tipo A de algum aparelho que forneça a tensão necessária para o funcionamento **correto** do circuito.
 
     **Observação:** o nosso sistema é alimentado por 5V - padrão do USB e dos CIs -.
+<p align="center">
+    </br>
+    <img alt="usb" width="350" height="350" src="../img/usb.png">
+</p>
 
-    - **Terminal Borne:** a alimentação secudária é dada por um terminal de 2 vias. Só deve ser usada caso a alimentação pela entrada USB não estiver disponível.
+- **Terminal Borne:** a alimentação secudária é dada por um terminal de 2 vias. Só deve ser usada caso a alimentação pela entrada USB não estiver disponível.
 
-    **Observação:** somente a alimentação de USB é necessária para a atividade, o terminal borne deve ser usado apenas com autorização do professor e não é permitido ligar o USB e o terminal ao mesmo tempo.
+<p align="center">
+    </br>
+    <img alt="terminal" width="350" height="350" src="../img/terminal.jpg">
+</p>
 
-    **Observação:** a posição dos polos positivo e negativo do terminal deve ser considerada.
+**Observação:** somente a alimentação de USB é necessária para a atividade, o terminal borne deve ser usado apenas com autorização do professor e não é permitido ligar o USB e o terminal ao mesmo tempo.
+
+**Observação:** a posição dos polos positivo e negativo do terminal deve ser considerada.
 
 ***
 
