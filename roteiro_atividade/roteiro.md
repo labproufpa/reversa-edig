@@ -105,9 +105,13 @@
     
     **Dica:** o modelo do CI é escrito na parte de cima dele.
 
-    **Dica:** recorra ao **datasheet** do circuito integrado para obter essas informações.
+    **Dica:** recorra ao **datasheet** do circuito integrado para obter essas informações. Dentro do repositório, você encontrará uma pasta com os datasheets dos CIs da atividade.
 
-    **Dica:** os Cis têm, em uma das bordas laterais, uma cavidade, que server para orientação. Se tratando da família 74XXXX, a numeração começa com a cavidade para o lado esquerdo, e o pino do canto inferior esquerdo é o pino 1, a contagem é feita no sentido anti-horário, como segue a imagem:
+<p align="center">
+<img alt="pin" width="672" height="339" src="../img/pin.png">
+</p>
+
+**Dica:** os Cis têm, em uma das bordas laterais, uma cavidade, que server para orientação. Se tratando da família 74XXXX, a numeração começa com a cavidade para o lado esquerdo, e o pino do canto inferior esquerdo é o pino 1, a contagem é feita no sentido anti-horário, como segue a imagem:
 
 <p align="center">
 <img alt="pin_count" width="440" height="322" src="../img/pin_count.png">
@@ -119,7 +123,7 @@
 4. Analise as trilhas;
 
     **Dica:** cada sinal de entrada sai, separadamente, de cada pino do Dip Switch. Os sinais percorrem os CIs e combinam-se em operações lógicas de AND, OR, NOT, NAND e NOR.
-    
+
     **Dica:** durante o porcesso, você estará obtendo, também, a expressão lógica do circuito. Regisre tanto o circuito quanto a expressão lógica obtida pela análise da placa.
 
 5. Construa o circuito no Logisim;
