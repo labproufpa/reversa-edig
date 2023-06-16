@@ -23,20 +23,15 @@
 
 **<h4 align='center'>Considerações gerais</h4>**
 
-- Nesta atividade, analisaremos placas de circuito impresso contendo circuitos lógicos vistos comumente em aulas de Eletrônica Digital.
-**Cada placa é composta por:**
-- 3 (três) CIs (circuito integrado), de modelos diferentes, cada um contendo um tipo específico de porta lógica dentre as seguintes: 
-    - AND
-    - OR
-    - NOT
-    - NAND
-    - NOR
+- Nesta atividade, analisaremos placas de circuito impresso contendo circuitos lógicos vistos comumente em aulas de Eletrônica Digital. **Cada placa é composta por:**
+    - 3 (três) CIs (circuitos integrados), de modelos diferentes, cada um contendo um tipo específico de porta lógica dentre as seguintes: AND, OR, NOT, NAND e NOR
     - 1 (um) Dip Switch de 4 vias;
     - 1 (um) LED;
     - 1 (um) Terminal Borne de 2 vias;
     - 1 (um) entrada USB Tipo A fêmea.
     
 - Cada placa consiste em um circuito lógico diferente.
+
 - Cada circuito tem 4 entradas e 1 saída.
 
 **<h4 align='center'>Componentes e suas funções</h4>**
