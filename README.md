@@ -29,7 +29,7 @@
     - 1 (um) LED;
     - 1 (um) Terminal Borne de 2 vias;
     - 1 (um) entrada USB Tipo A fêmea.
-    
+
 - Cada placa consiste em um circuito lógico diferente.
 
 - Cada circuito tem 4 entradas e 1 saída.
@@ -52,17 +52,17 @@
 
 1. Inicie reconhecendo a disposição dos componentes do circuito;
 
-2. Ligue o circuito
-    - Conecte a placa ao computador por meio do cabo USB, para alimentar o circuito.
+2. Ligue o circuito conectando a placa ao computador por meio do cabo USB, para alimentar o circuito.
 
-3. Analise o sinal de saída;
-    - Modifique a combinação das chaves 1,2,3 e 4, do Dip Switch e observe o estado o LED.
-**Dica:** gire as chaves para o sentido "ON" para fechá-las.
-**Dica:** o LED aceso indica o nível lógico alto, 1. o LED desligado indica o nível lógico baixo, 0.
+3. Modifique a combinação das chaves 1,2,3 e 4, do Dip Switch e observe o sinal de saída (estado o LED).
+
+**Dica:** mova as chaves para o sentido "ON" para fechá-las.
+
+**Dica:** o LED aceso indica o nível lógico alto, 1, e LED desligado indica o nível lógico baixo, 0.
 
 4. Construa a tabela verdade do circuito realizando todas as combinações das entradas do Dip Switch.
 
-**Observação:** esta tabela deve corresponder exatamente ao circuito da placa. Caso contrário, poderá resultar em algum erro durante.
+**Observação:** esta tabela deve corresponder exatamente ao circuito da placa. Caso contrário, poderá resultar em erros nas próximas partes.
 
 ***
 
