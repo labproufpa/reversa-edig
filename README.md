@@ -87,20 +87,18 @@
 
 ### **PARTE 4 - CONSTRUÇÃO DO CIRCUITO DA PLACA E OBTENÇÃO DA EXPRESSÃO LÓGICA**
 
-1. Desligue a placa;
+1. Desligue a placa removendo o cabo USB do computador;
 
 2. A respeito das nossas placas, note os seguintes pontos:
-    - Os CIs possuem encapsulamento **DIP (Dual Inline Package)**. DIP são chamados "dual" porque possuem duas fileiras de pinos e "inline" porque os pinos estão alinhados em uma única linha reta. O número de pinos em um pacote DIP pode variar, mas nossos CIs são **14 pinos**.
+    - Os CIs possuem encapsulamento **DIP (Dual Inline Package)**. DIP são chamados "dual" porque possuem duas fileiras de pinos e "inline" porque os pinos estão alinhados em uma única linha reta. O número de pinos em um CI com encapsulamento DIP pode variar. Os nossos CIs possuem **14 pinos**.
 
 3. Reconheça a pinagem dos componentes da placa;
-    - Procure a documentação dos CIs para descobrir suas especificações.
+    - Leia a documentação dos CIs para descobrir suas especificações. Cada CI possui um **datasheet** correspondente. Todos os datasheets necessários para esta atividade se encontram na pasta [datasheets](datasheets). Além disso, a figura abaixo mostra como as portas lógicas estão associadas a cada pino de cada CI.
     
     **Dica:** o modelo do CI é escrito na parte de cima dele.
 
-    **Dica:** recorra ao **datasheet** do circuito integrado para obter essas informações. Dentro do repositório, você encontrará uma pasta com os datasheets dos CIs da atividade.
-
 <p align="center">
-<img alt="pin" width="1008" height="509" src="img/pin.png">
+<img alt="pin" width="700" height=auto src="img/pin.png">
 </p>
 
 **Dica:** os Cis têm, em uma das bordas laterais, uma cavidade, que server para orientação. Se tratando da família 74XXXX, a numeração começa com a cavidade para o lado esquerdo, e o pino do canto inferior esquerdo é o pino 1, a contagem é feita no sentido anti-horário, como segue a imagem:
