@@ -66,7 +66,7 @@
 
 ***
 
-### PARTE 3 - **EXPRESSÃO LÓGICA A PARTIR DA TABELA**
+### **PARTE 3 - EXPRESSÃO LÓGICA A PARTIR DA TABELA**
 
 1. Abra o Logisim para gerarmos o circuito a partir da tabela;
     - Com o Logisim aberto, vá em Projeto > Analisar Circuito; a janela chamada "Análise Combinacional" deverá aparecer, é nesta tabela que injetaremos nossa tabela verdade;
