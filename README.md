@@ -98,10 +98,10 @@
     **Dica:** o modelo do CI é escrito na parte de cima dele.
 
 <p align="center">
-<img alt="pin" width="700" height=auto src="img/pin.png">
+<img alt="pin" width="800" height=auto src="img/pin.png">
 </p>
 
-**Dica:** os Cis têm, em uma das bordas laterais, uma cavidade, que server para orientação. Se tratando da família 74XXXX, a numeração começa com a cavidade para o lado esquerdo, e o pino do canto inferior esquerdo é o pino 1, a contagem é feita no sentido anti-horário, como segue a imagem:
+**Dica:** os CIs têm, em uma das laterais menores, uma cavidade/chanfro, que serve para orientação. Em se tratando da família 74XXXX, a numeração começa com a cavidade para o lado esquerdo, e o pino do canto inferior esquerdo é o pino 1. A contagem é feita no sentido anti-horário, como mostra a imagem.
 
 <p align="center">
 <img alt="pin_count" width="440" height="322" src="img/pin_count.png">
@@ -114,7 +114,7 @@
 
     **Dica:** cada sinal de entrada sai, separadamente, de cada pino do Dip Switch. Os sinais percorrem os CIs e combinam-se em operações lógicas de AND, OR, NOT, NAND e NOR.
 
-    **Dica:** durante o porcesso, você estará obtendo, também, a expressão lógica do circuito. Regisre tanto o circuito quanto a expressão lógica obtida pela análise da placa.
+    **Dica:** durante o porcesso, você estará obtendo, também, a expressão lógica do circuito. Registre tanto o circuito quanto a expressão lógica obtida pela análise da placa.
 
 5. Construa o circuito no Logisim;
 
