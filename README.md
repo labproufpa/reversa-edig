@@ -69,18 +69,19 @@
 ### PARTE 3 - **EXPRESSÃO LÓGICA A PARTIR DA TABELA**
 
 1. Abra o Logisim para gerarmos o circuito a partir da tabela;
-    - Com o Logisim aberto, vá em Projeto > Analisar Circuito, uma janela deverá aparecer, chamada "Análise Combinacional", onde injetamos nossa tabela verdade;
+    - Com o Logisim aberto, vá em Projeto > Analisar Circuito; a janela chamada "Análise Combinacional" deverá aparecer, é nesta tabela que injetaremos nossa tabela verdade;
     - Na aba "Entradas", acrescente as entradas, em ordem, do bit mais significativo para o menos significativo;
     - Na aba "Saídas", acrescente apenas a saída do circuito;
     - Agora, na aba "Tabela", mude o valor da saída em 0 e 1 de acordo com a tabela que você registrou do circuito;
     - Clique no botão abaixo "Construir Circuito", e avance.
 
-    **Observação:** o Logisim gerará um circuito correspondente à tabela verdade, mas não necessariamente este será o será o circuito final.
+    **Observação:** o Logisim gerará um circuito correspondente à tabela verdade, mas não necessariamente este será o circuito final.
 
 2. Vá novamente em Projeto > Analisar Circuito
     - Na aba "Expressão", temos a expressão lógica do circuito gerado;
     - Registre a expressão lógica obtida.
-    **Observação:** note que, agora temos uma base para rechonecermos o circuito contido na placa, mas não necessariamente este será o circuito final.
+    
+    **Observação:** note que, agora temos uma base para reconhecermos o circuito contido na placa, mas não necessariamente este será o circuito final.
 
 ***
 
