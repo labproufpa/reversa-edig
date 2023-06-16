@@ -41,50 +41,19 @@
 
 **<h4 align='center'>Componentes e suas funções</h4>**
 
-- **Circuitos Integrados:** contêm as portas lógicas do circuito.
-<p align="center">
-    </br>
-    <img alt="ci" width="150" height=auto src="img/ci.png">
-    </p>
-</br>
+|**Componente**|**Função**|**Imagem**|
+|---|---|---|
+|Circuitos Integrados|Contém as portas lógicas do circuito|<img alt="ci" width="150" height=auto src="img/ci.png">|
+|Dip Switch| Contém 4 chaves: 1,2,3 e 4. Cada chave possui duas posições: "ligado" e "desligado". Quando "ligado", a conexão elétrica é estabelecida entre os pinos. As chaves 1,2, 3 e 4 representaram as entradas do circuito lógico. | <img alt="dip" width="150" height=auto src="img/dip.png">|
+|LED| Representa a saída do circuito. Quando ligado, indica saída de nível lógico alto "1". Do contrário, indica saída de nível lógico baixo "0".| <img alt="led" width="150" height=auto src="img/led.png">|
+|Entrada USB| A alimentação principal do sistema é dada por uma entrada USB, conectada ao Dip Switch e aos CIs. A entrada USB tipo A e deve ser conectada a um computador, ou a outra entrada USB tipo A de algum aparelho que forneça a tensão necessária para o funcionamento **correto** do circuito.|<img alt="usb" width="150" height=auto src="img/usb.png">|
+|Terminal Borne| A alimentação secudária é dada por um terminal de 2 vias. Só deve ser usada caso a alimentação pela entrada USB não estiver disponível. Quando usado, a posição dos polos positivo e negativo do terminal deve ser considerada.|<img alt="terminal" width="150" height=auto src="img/terminal.jpg">|
 
-- **Dip Switch:** contêm 4 chaves: 1,2,3 e 4. Cada chave possui duas posições: "ligado" e "desligado". Quando "ligado", a conexão elétrica é estabelecida entre os pinos. As chaves 1,2, 3 e 4 representaram as entradas do circuito lógico.
-
-<p align="center">
-    </br>
-    <img alt="dip" width="150" height=auto src="img/dip.png">
-</p>
-</br>
-
-- **LED:** representa a saída do circuito. Quando ligado, indica saída de nível lógico alto "1". Do contrário, indica saída de nível lógico baixo "0".
-
-<p align="center">
-    </br>
-    <img alt="led" width="150" height=auto src="img/led.png">
-</p>
-
-- **Entrada USB:** a alimentação principal do sistema é dada por uma entrada USB, conectada ao Dip Switch e aos CIs. A entrada USB tipo A e deve ser conectada a um computador, ou a outra entrada USB tipo A de algum aparelho que forneça a tensão necessária para o funcionamento **correto** do circuito.
-
-    **Observação:** o nosso sistema é alimentado por 5V - padrão do USB e dos CIs -.
-<p align="center">
-    </br>
-    <img alt="usb" width="200" height=auto src="img/usb.png">
-</p>
-
-- **Terminal Borne:** a alimentação secudária é dada por um terminal de 2 vias. Só deve ser usada caso a alimentação pela entrada USB não estiver disponível.
-
-<p align="center">
-    </br>
-    <img alt="terminal" width="150" height=auto src="img/terminal.jpg">
-</p>
-
-**Observação:** somente a alimentação de USB é necessária para a atividade, o terminal borne deve ser usado apenas com autorização do professor e não é permitido ligar o USB e o terminal ao mesmo tempo.
-
-**Observação:** a posição dos polos positivo e negativo do terminal deve ser considerada.
+**Atenção:** somente a alimentação de USB é necessária para a atividade, o terminal borne deve ser usado apenas com autorização do professor e não é permitido ligar o USB e o terminal ao mesmo tempo.
 
 ***
 
-### PARTE 2 - TABELA VERDADE DO CIRCUITO LÓGICO
+### **PARTE 2 - TABELA VERDADE DO CIRCUITO LÓGICO**
 
 1. Inicie reconhecendo a disposição dos componentes do circuito;
 
