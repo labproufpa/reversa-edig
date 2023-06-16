@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="ufpa_logo" width="100" height="119" src="../img/ufpa_logo.png">
+<img alt="ufpa_logo" width="100" height="119" src="img/ufpa_logo.png">
 </p>
 
 **<h4 align="center"> Universidade Federal do Pará </h4>**
@@ -44,7 +44,7 @@
 - **Circuitos Integrados:** contêm as portas lógicas do circuito.
 <p align="center">
     </br>
-    <img alt="ci" width="345" height="300" src="../img/ci.png">
+    <img alt="ci" width="150" height=auto src="img/ci.png">
     </p>
 </br>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
     </br>
-    <img alt="dip" width="345" height="300" src="../img/dip.png">
+    <img alt="dip" width="150" height=auto src="img/dip.png">
 </p>
 </br>
 
@@ -60,7 +60,7 @@
 
 <p align="center">
     </br>
-    <img alt="led" width="300" height="300" src="../img/led.png">
+    <img alt="led" width="150" height=auto src="img/led.png">
 </p>
 
 - **Entrada USB:** a alimentação principal do sistema é dada por uma entrada USB, conectada ao Dip Switch e aos CIs. A entrada USB tipo A e deve ser conectada a um computador, ou a outra entrada USB tipo A de algum aparelho que forneça a tensão necessária para o funcionamento **correto** do circuito.
@@ -68,14 +68,14 @@
     **Observação:** o nosso sistema é alimentado por 5V - padrão do USB e dos CIs -.
 <p align="center">
     </br>
-    <img alt="usb" width="350" height="350" src="../img/usb.png">
+    <img alt="usb" width="200" height=auto src="img/usb.png">
 </p>
 
 - **Terminal Borne:** a alimentação secudária é dada por um terminal de 2 vias. Só deve ser usada caso a alimentação pela entrada USB não estiver disponível.
 
 <p align="center">
     </br>
-    <img alt="terminal" width="350" height="350" src="../img/terminal.jpg">
+    <img alt="terminal" width="150" height=auto src="img/terminal.jpg">
 </p>
 
 **Observação:** somente a alimentação de USB é necessária para a atividade, o terminal borne deve ser usado apenas com autorização do professor e não é permitido ligar o USB e o terminal ao mesmo tempo.
@@ -135,13 +135,13 @@
     **Dica:** recorra ao **datasheet** do circuito integrado para obter essas informações. Dentro do repositório, você encontrará uma pasta com os datasheets dos CIs da atividade.
 
 <p align="center">
-<img alt="pin" width="1008" height="509" src="../img/pin.png">
+<img alt="pin" width="1008" height="509" src="img/pin.png">
 </p>
 
 **Dica:** os Cis têm, em uma das bordas laterais, uma cavidade, que server para orientação. Se tratando da família 74XXXX, a numeração começa com a cavidade para o lado esquerdo, e o pino do canto inferior esquerdo é o pino 1, a contagem é feita no sentido anti-horário, como segue a imagem:
 
 <p align="center">
-<img alt="pin_count" width="440" height="322" src="../img/pin_count.png">
+<img alt="pin_count" width="440" height="322" src="img/pin_count.png">
 
 <h5 align='center'>Estrutura de conexão de CI: (a) pinos de CI típicos; (b) configuração de numeração de pinos.</h5>
 
